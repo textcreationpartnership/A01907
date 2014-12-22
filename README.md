@@ -35,11 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Here begynneth a lytell prosses or matter called the Chauc̃e of the dolorous louer newely cõpyled or
+
+1. ¶The prologue of the auctour.
+
 #####Body#####
-Here begynneth a lytell prosses or matter called the Chauc̃e of the dolorous louer newely cõpyled or
+
+1. ¶Here foweth a lytell treatyse called The chaunce of the dolorous louer.
+¶Here after foloweth the balade of the dolorous louer.O Myserable creature wrapped all in woFull wel¶And thus whan I had of this balade made an endeI began ryght strongely to sobbe syghe and wepeBesec
+1. ¶Lenuoy of the auctour.
+
 #####Back#####
-Here begynneth a lytell prosses or matter called the Chauc̃e of the dolorous louer newely cõpyled or
+¶Imprynted at London in Flete strete at the sygne of the Sonne by Wynkyn de Worde.
 **Types of content**
 
   * There are 315 **verse** lines!
